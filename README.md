@@ -6,3 +6,5 @@ Scroll images with Previous or Next buttons or use the shortcuts :
 - Left - Previous image,
 - Right - Next image,
 - End - Last image.
+
+Topic http://www.purebasic.fr/french/viewtopic.php?f=6&t=16327
